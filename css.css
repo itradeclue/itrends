@@ -1,16 +1,12 @@
 body {
   font-size: 40pt;
 }
-.navbar {
-  display: block;
-  
-}
 
 ul {
   margin:0px;
   padding:0px;
   list-style:none;
-  
+
 }
 
 ul a {
