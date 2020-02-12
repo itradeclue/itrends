@@ -6,17 +6,12 @@ ul {
   margin:0px;
   padding:0px;
   list-style:none;
-
-}
-
-ul a {
-  text-decoration:none;
 }
 
 ul li {
   float:left;
   width:90%;
-  height:100px;
+  height:40px;
   background-color:Black;
   opacity:0.7;
   color:White;
