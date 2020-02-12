@@ -34,6 +34,6 @@ ul li ul li {
 display: none;
 }
 
-ul li ul li:hover {
+ul li:hover ul li {
 display: block;
 }
